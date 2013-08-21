@@ -1,0 +1,5 @@
+# Name: Michael Krieger
+
+File.readline reads a single line from a file. A newline character \n is left at the end of a string, and is only omitted in the last line of the file if the file doesn't end in a newline.
+
+String.strip returns a copy of the string with the leading and trailing characters removed. The chars argument is a tring specifying characters to be removed.
